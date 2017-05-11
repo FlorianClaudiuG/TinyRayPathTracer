@@ -1,0 +1,67 @@
+﻿  Vector3.cpp
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\vector3.cpp(85): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\vector3.cpp(127): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\vector3.cpp(148): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\vector3.cpp(151): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Triangle.cpp
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\triangle.cpp(107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  TinyRayMain.cpp
+  Sphere.cpp
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\sphere.cpp(25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\sphere.cpp(67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Scene.cpp
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\scene.cpp(44): warning C4305: 'argument': truncation from 'double' to 'float'
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\scene.cpp(55): warning C4305: 'argument': truncation from 'double' to 'float'
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\scene.cpp(66): warning C4305: 'argument': truncation from 'double' to 'float'
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\scene.cpp(134): warning C4305: 'argument': truncation from 'double' to 'float'
+  RayTracer.cpp
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\raytracer.cpp(33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\raytracer.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\raytracer.cpp(83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\raytracer.cpp(85): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\raytracer.cpp(103): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\raytracer.cpp(105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\raytracer.cpp(107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\raytracer.cpp(192): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\raytracer.cpp(193): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\raytracer.cpp(194): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\raytracer.cpp(198): warning C4305: 'argument': truncation from 'double' to 'float'
+  Ray.cpp
+  Plane.cpp
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\plane.cpp(47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  AppWindow.cpp
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  TestApplication.cpp
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Material.cpp
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Light.cpp
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\light.cpp(32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\light.cpp(37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Framebuffer.cpp
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Camera.cpp
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\camera.cpp(33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\camera.cpp(48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Box.cpp
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\box.cpp(29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\box.cpp(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\box.cpp(31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\box.cpp(32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\box.cpp(34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\box.cpp(35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\box.cpp(36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\ctstudent2\studentusers\100368163\desktop\tinyray\tinyray\box.cpp(37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  TinyRay.vcxproj -> \\ctstudent2\studentusers\100368163\Desktop\TinyRay\Debug\TinyRay.exe
+  TinyRay.vcxproj -> \\ctstudent2\studentusers\100368163\Desktop\TinyRay\Debug\TinyRay.pdb (Full PDB)
